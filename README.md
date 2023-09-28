@@ -1,0 +1,2 @@
+# rrsaggregator
+Go RRS Project
